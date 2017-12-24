@@ -1,0 +1,2 @@
+CSCI1260|Computer Science|Kellie Price
+Dakota|Cowell|CSCI|FRESHMAN|33|4.0|Dakota.jpg

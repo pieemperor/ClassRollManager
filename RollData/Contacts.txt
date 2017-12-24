@@ -1,0 +1,11 @@
+MATH1234|Linear Algebra|Cintron
+Dakota|Cowell|CSCI|Freshman|12|4.0|jimmy.jpg
+Morgan|Cockrell|math|SOPHOMORE|-3|3.89|WATER.jpg
+MATT|PECORINI|xxxx|junior|0|2.4|Stupid.jpg
+matt|James|csc|Senior|40|40|Water.jpg
+Morgan|Munsey|digm|Graduate|150|2.7|Sleepy
+Fred|Banana|cScI|Other|-412|-62|stupid.jpg
+Music|Rain|Nothing|Banana|0|0|Dc.jpg
+Adam|Klinker|CSCI|Junior|32|3.32|Adam.jpg
+Cameron|Hashmi|MRKT|Senior|134|1.4|Camo.jpg
+Colby|Ross|NONE|Graduate|77|3.48|Colb.jpg

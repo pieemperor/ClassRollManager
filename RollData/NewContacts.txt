@@ -1,0 +1,2 @@
+1260|Computer Science|Price
+Dakota|Cowell|CSCI|FRESHMAN|33|3.8|Dakota.jpg
